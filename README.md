@@ -1,8 +1,9 @@
 # 关于Bizha Directory
 Bizha Directory是源于zdir，使用PHP开发的目录列表程序。跨平台，响应式UI，无需数据库，体积小巧，功能强大，无广告，简洁美观。
+''''
 后台地址：https://yourdomain/functions/admin.php
 文件索引：https://yourdomain/?c=cache
-
+''''
 ### 环境要求
 * PHP >= 5.6(建议PHP 7.2)
 * 文件索引依赖于curl组件
