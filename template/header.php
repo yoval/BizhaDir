@@ -54,7 +54,7 @@
 				                	echo $siteinfo['site_name'];
 			                	}
 			                	else {
-				                	echo "<i class='fa fa-sitemap' aria-hidden='true'></i> BeautyDir";
+				                	echo "<i class='fa fa-sitemap' aria-hidden='true'></i> BizhaDir";
 			                	}
 			                ?>
 		                </a></h1>
@@ -66,7 +66,7 @@
 				                	echo $siteinfo['site_name'];
 			                	}
 			                	else {
-				                	echo "<i class='fa fa-sitemap' aria-hidden='true'></i> BeautyDir";
+				                	echo "<i class='fa fa-sitemap' aria-hidden='true'></i> BizhaDir";
 			                	}
 			                ?>
 		                </a></h1>
@@ -106,6 +106,7 @@
     <!-- 顶部导航栏END -->
 
 	<!--顶部导航栏-->
+<!--
 	<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white  border-bottom">
 	<div class="container big-nav">
 		<a class="navbar-brand" href="<?php echo $siteinfo['siteURL']; ?>">
@@ -114,6 +115,7 @@
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 		</button>
+		
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav mr-auto">
 				<li class="nav-item active">
@@ -124,7 +126,7 @@
 				</li>
 	
 				<li class="nav-item active">
-				<a class="nav-link" href="https://soft.ulmt.com/BeautyDir/README.html">帮助文档</a>
+				<a class="nav-link" href="https://soft.ulmt.com/BizhaDir/README.html">帮助文档</a>
 				</li>
 				<li class="nav-item active">
 					<a class="nav-link" href="./?c=admin">文件管理</a>
@@ -141,4 +143,5 @@
 		</div>
 	</div>
 	</nav>
+ -->
   <!-- 顶部导航栏END -->

@@ -2,7 +2,7 @@
    </br></br>
  	<div class = "footer text-center">
  	    
-		<p align="center" style='text-align:center'> Copyright &copy;<?php echo date("Y")." "; ?>  Beauty Directory</p>
+		<p align="center" style='text-align:center'> Copyright &copy;<?php echo date("Y")." "; ?>  Bizha Directory</p>
 	</div>
 	<!-- 底部END -->
 	
