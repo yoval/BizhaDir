@@ -53,7 +53,7 @@ else if($c == 'admin') {
 	}
 	
 	else{
-		header("Location: ./BeautyDir/functions/admin.php");
+		header("Location: ./BizhaDir/functions/admin.php");
 		exit;
 	}
 }

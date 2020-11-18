@@ -1,0 +1,10 @@
+RewriteEngine On
+DirectoryIndex BeautyDir/index.php
+RewriteRule 'static/(.*)$' BeautyDir/static/$1 [L] 
+Options -Indexes
+order deny,allow
+
+<Files version.txt>
+order allow,deny
+deny from all
+</Files>
