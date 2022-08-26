@@ -257,7 +257,7 @@ function qrcode(name,url){
 	url = protocol + '//' + host + '/' + url;
 
 	//二维码接口
-	qrcodeapi = "https://tenapi.cn/qr/?txt=" + url;
+	qrcodeapi = "https://tenapi.cn/qr/?size=5&txt=" + url;
 	var qrimg = "<center><img src = '" + qrcodeapi + "' /></center>";
 	layer.open({
 		type: 1,
